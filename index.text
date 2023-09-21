@@ -1,0 +1,4 @@
+git init : intializes the git in the current folder
+git status : tells you status of the folder: wheather it has been added or not
+git log : tells you the history or changes being made in the file
+
