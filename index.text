@@ -7,3 +7,4 @@ git stash pop : we can again take it to staging area by using this command
 git stash clear: makes all the stash background file which there to be saved if needed (for example experimental file which a programmer wants to test but doesn't want to make a history out of it );
 git remote add origin <url> : it decides where upload in the github
 git push origin master: upload the files to github ;
+git pull: this is the method to download all the changes in the online file;
